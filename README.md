@@ -1,4 +1,4 @@
-# ant_simulator
+# ant_simulation
 *a program meant to simulate ants <br><br>*
 to compile, run ```make``` <br>
 and to install, run ```sudo make install```
